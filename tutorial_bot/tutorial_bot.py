@@ -44,7 +44,7 @@ try:
     intents.message_content = True
     intents.members = True
 
-    token = "MTQxNjg0MjYwOTMwNDgwMTQxMA.GKNBvF.fC0uclrUobu3Rwcq1x5wqbPCghlIZS43s5gyUo"  # <-- fest im Code
+    token = "MTQxNjg0MjYwOTMwNDgwMTQxMA.GKNBvF.fC0uclrUobu3Rwcq1x5wqbPCghlIZS43s5gyUo"  # <-- fest im Code WAS AUTOMATICALLY CHANGED BY DISCORD AFTER 5 SECS
 
     bot = commands.Bot(command_prefix='\\', intents=intents)
 
